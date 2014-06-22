@@ -25,7 +25,7 @@ This script will perform the following transformations of data:
 - Extract columns only with means and standard deviations of each variable
 - Add a column with descriptive activity names
 - Make column names more human readable
-- Creates a second tidy data set with the average of each variable for each activity and each subject
-- Saves the tidy data set to a text file
+- Create a second tidy data set with the average of each variable for each activity and each subject
+- Save the tidy data set to a text file
 
 Please see CodeBook.md for more details about features used in this project.
