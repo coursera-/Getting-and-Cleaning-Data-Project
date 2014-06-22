@@ -103,11 +103,13 @@ The complete list of variables:
 [72] "frequencyBodyAccMagnitudeMeanFreq"                  
 [73] "frequencyBodyBodyAccJerkMagnitudeMean"              
 [74] "frequencyBodyBodyAccJerkMagnitudeStandardDeviation" 
+
 [75] "frequencyBodyBodyAccJerkMagnitudeMeanFreq"          
 [76] "frequencyBodyBodyGyroMagnitudeMean"                 
 [77] "frequencyBodyBodyGyroMagnitudeStandardDeviation"    
 [78] "frequencyBodyBodyGyroMagnitudeMeanFreq"             
 [79] "frequencyBodyBodyGyroJerkMagnitudeMean"             
 [80] "frequencyBodyBodyGyroJerkMagnitudeStandardDeviation"
+
 [81] "frequencyBodyBodyGyroJerkMagnitudeMeanFreq"         
 [82] "activityType"
